@@ -1,28 +1,48 @@
-## Bem-vindo(a) ao perfil do Everton 🤟🏼
+<h1 align="center">Olá eu sou Everton Luis 🤙</h1>
 
- <div>
-   <a href="https://github.com/evertonluispro">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evertonluispro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evertonluispro&layout=compact&langs_count=6&theme=tokyonight"/>
+###
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="54" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="54" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="54" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="54" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="54" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="54" alt="bootstrap logo"  />
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg ">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg ">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg ">
-</div>
- 
- <br>
- 
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
- 
-<div>
-  
-  <a href="https://www.instagram.com/tomnzinhoo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/5DVhGKVf4h" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo= discord&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gemeos@evertonluispro.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alvo ="_blank"></a>
-  <a href="[https://www.linkedin.com/in/ricardohdias](https://www.linkedin.com/in/everton-luis-santos/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- 
-  ![Animação de cobra](https://github.com/evertonluispro/evertonluispro/blob/output/github-contribution-grid-snake.svg)
 
+###
+
+<div align="center">
+  <a href="[https://www.linkedin.com/in/ismael-rodrigues-93480327a/](https://www.linkedin.com/in/everton-luis-santos-silva/)"  target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="32" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/ismael.rdg/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="32" alt="instagram logo"  />
+  </a>
 </div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Ismaelrdgdev&locale=pt-br&mode=daily&theme=tokyonight&hide_border=false&border_radius=30&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ismaelrdgdev/Ismaelrdgdev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ismaelrdgdev/Ismaelrdgdev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ismaelrdgdev/Ismaelrdgdev/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<h4 align="center">Sou um Pernambucano, residente no Rio de Janeiro, universitário, apaixonado por tecnologia e bastante curioso a aprender.</h4>
+
+###
