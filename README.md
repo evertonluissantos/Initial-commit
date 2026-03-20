@@ -43,6 +43,6 @@
 
 ###
 
-<h4 align="center">Sou um Pernambucano, residente no Rio de Janeiro, universitário, apaixonado por tecnologia e bastante curioso a aprender.</h4>
+<h4 align="center">Sou de Alagoas, residente de Guarulhos, apaixonado por tecnologia e bastante curioso a aprender.</h4>
 
 ###
